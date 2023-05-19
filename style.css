@@ -1,0 +1,36 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Kavoon&family=Roboto:wght@900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Roboto';
+}
+
+.texto {
+
+ display: flex;
+ text-align: center;
+ justify-content:space-around;
+ align-items: center;
+
+
+}
+.texto ul{
+    width: 71px;
+    height: 0px;
+    justify-content: space-around;
+    display: flex;
+    gap: 60px;
+    list-style: none;
+
+
+
+}
+
+.tex{
+    color: #4044A0;
+}
